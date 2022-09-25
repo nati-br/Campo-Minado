@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28727e89-f55c-4652-9b49-e8e263f3608e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit4.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/campo-minado.iml" beforeDir="false" afterPath="$PROJECT_DIR$/campo-minado.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelo/Campo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelo/Campo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Teste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelo/Tabuleiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelo/Tabuleiro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
